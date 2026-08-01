@@ -1,0 +1,25 @@
+date,category,region,units_sold,revenue
+2025-01-05,Electronics,North,12,2400
+2025-01-12,Clothing,South,30,900
+2025-01-18,Electronics,East,8,1600
+2025-01-25,Home Goods,West,15,750
+2025-02-02,Clothing,North,22,660
+2025-02-09,Electronics,South,10,2000
+2025-02-15,Home Goods,East,18,900
+2025-02-22,Clothing,West,25,750
+2025-03-01,Electronics,North,14,2800
+2025-03-08,Home Goods,South,20,1000
+2025-03-15,Clothing,East,28,840
+2025-03-22,Electronics,West,9,1800
+2025-04-03,Home Goods,North,16,800
+2025-04-10,Clothing,South,33,990
+2025-04-17,Electronics,East,11,2200
+2025-04-24,Home Goods,West,19,950
+2025-05-05,Clothing,North,27,810
+2025-05-12,Electronics,South,13,2600
+2025-05-19,Home Goods,East,21,1050
+2025-05-26,Clothing,West,31,930
+2025-06-02,Electronics,North,15,3000
+2025-06-09,Home Goods,South,17,850
+2025-06-16,Clothing,East,29,870
+2025-06-23,Electronics,West,10,2000
