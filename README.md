@@ -71,7 +71,7 @@ Generate & Execute Python
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/Data-Visualization-Agent.git
+git clone https://github.com/M-Haseeb01/Data-Visualization-AI-Agent.git
 cd Data-Visualization-Agent
 pip install -r requirements.txt
 ```
@@ -105,3 +105,7 @@ What are the main trends in this dataset?
 
 ## Demo
 
+ 
+
+![Input Image](demo.png
+)
