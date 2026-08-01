@@ -106,9 +106,7 @@ def analyze_data(
         answer = f"Agent error: {e}"
         chart_path = None
 
-    # --------------------------------------------------------
     # Update chat
-    # --------------------------------------------------------
 
     history.append(
         {
